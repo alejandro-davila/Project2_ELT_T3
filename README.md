@@ -1,5 +1,10 @@
 <h1 align="center">Crowdfunding - ETL</h1>
 
+<h3 align="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://media.giphy.com/media/26FPLMDDN5fJCir0A/giphy.gif?cid=ecf05e47zhxbwl21iepxvdoefl0bx4xshb4qcifzai0o0tn8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Centered GIF">
+</div>
+
 
 <h1 align="center">Project Description</h1>
 
