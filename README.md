@@ -25,16 +25,26 @@ Our team leveraged annual CSV and Excel datasets, which contained valuable infor
 
 
 <h1 align="center">Team Members</h1>
-Click on the picture to see member's GitHub profile
+Click on the contributor's name to see member's GitHub profile
 
 
 The project will be undertaken by: 
 
-<h3 align="center">
-<img width="100" alt="ch" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/ccc94ae9-c715-48fc-b6b3-984f0cecefc5">&nbsp;&nbsp;&nbsp;<a href="https://github.com/hannahvarghese">Hannah Varghese</a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img width="100" alt="ch" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/24fd4155-0b77-4263-a264-34869f0abaeb">&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjoel22">Joel Johnson</a>&nbsp;&nbsp;&nbsp;<img width="100" alt="ch" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/d7dcc18d-eeb4-4410-9dc5-dbf0589f57f6">&nbsp;&nbsp;&nbsp;<a href="https://github.com/alejandro-davila">Alejandro Davila</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="100" alt="sl" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/996ddd27-d252-4622-a43c-f9aa14213598">&nbsp;&nbsp;&nbsp;<a href="https://github.com/lmoore5460">Latrece Moore</a></h3>
+<h4 align="center">
+<img width="100" alt="ch" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/ccc94ae9-c715-48fc-b6b3-984f0cecefc5">&nbsp;&nbsp;&nbsp;<a href="https://github.com/hannahvarghese">Hannah Varghese</a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img width="100" alt="ch" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/24fd4155-0b77-4263-a264-34869f0abaeb">&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjoel22">Joel Johnson</a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img width="100" alt="ch" src="https://github.com/alejandro-davila/Project1_Team6_Austin_Analysis/assets/135288005/d7dcc18d-eeb4-4410-9dc5-dbf0589f57f6">&nbsp;&nbsp;&nbsp;<a href="https://github.com/alejandro-davila">Alejandro Davila</a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img width="100" alt="lm" src="https://github.com/alejandro-davila/Project2_ELT_T3/assets/135288005/831937f9-94c7-47dd-8906-6c87379a10cb">&nbsp;&nbsp;&nbsp;<a href="https://github.com/lmoore5460">Latricee Moore</a><h4>
 
 
 
 
-<h2 align="center">Resources</h2>
+
+<h2 align="center">SOFTWARE/TOOLS/LIBRARIES</h2>
+
+
+
+<img width="120" height="60" alt="Numpy" src=https://github.com/alejandro-davila/SQL_pgAdmin_Postgres/assets/135288005/2d947a6d-9bcc-4b2c-87b2-03a0fd765cd4>
+<img width="90" height="90" alt="Jupyter" src=https://github.com/alejandro-davila/NoSQL/assets/135288005/b676969a-d5c4-405b-abea-c1ad27986df4>
+<img width="90" height="70" alt="Pandas" src=https://github.com/alejandro-davila/NoSQL/assets/135288005/cf788bf2-1b9d-484e-89d2-2367ff9c28a1>
+<img width="90" height="70" alt="NoSQL" src=https://github.com/alejandro-davila/NoSQL/assets/135288005/ef6d1bde-f15c-4cec-932c-ee4a31cebf23>
+<img width="90" height="70" alt="pgAdmin" src="https://github.com/alejandro-davila/sql-challenge/assets/135288005/a9f816ec-15e8-4fe1-b40d-5c6b0de8fa6a">
+<img width="90" height="70" alt="quickdbd" src="https://github.com/alejandro-davila/SQL_pgAdmin_Postgres/assets/135288005/06387833-7d55-444a-9e36-cd94f80dc0e7">
 
